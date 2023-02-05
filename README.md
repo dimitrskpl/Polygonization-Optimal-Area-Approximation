@@ -1,6 +1,7 @@
-# Optimal Area Polygonization
+# Polygonization Optimal Area Approximation
 
-**Problem:** Polygonization of a point-set **S** with **n** points in $\mathbf{R}^2$, to have optimal area (minimal or maximal).
+**Problem:** Polygonization of a point-set **S** with **n** points in $\mathbf{R}^2$, and optimal (minimal or maximal) area approximation.  
+This is an extension of [this work](https://github.com/rondojim/Point-Set-Polygonization).
 
 ![](optimal-polygonizations.png)
 
