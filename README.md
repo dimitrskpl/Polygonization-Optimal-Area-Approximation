@@ -6,7 +6,7 @@ This is an extension of [this work](https://github.com/rondojim/Point-Set-Polygo
 The implemented algorithms are based on the following papers:  
 [Local Search](https://arxiv.org/abs/2106.14728)  
 [Simulated Annealing](https://dl.acm.org/doi/abs/10.1145/3500911)   
-[Ant Colony](https://oa.upm.es/19287/1/INVE_MEM_2011_121744.pdf])   
+[Ant Colony](https://oa.upm.es/19287/1/INVE_MEM_2011_121744.pdf)   
 
 ![](optimal-polygonizations.png)
 
